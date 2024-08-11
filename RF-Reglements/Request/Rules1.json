@@ -1,0 +1,47 @@
+{
+    "content": "",
+    "embeds": [
+      {
+        "title": "👾 ✤ 𝓡𝓾𝓫𝓲𝓼 𝓕𝓪𝓬𝓽𝓸𝓻𝔂 ✤ 👾",
+        "description": "📜🛡️ Les Lois Sacrées du Royaume de 👾 ✤ 𝓡𝓾𝓫𝓲𝓼 𝓕𝓪𝓬𝓽𝓸𝓻𝔂 ✤ 👾\n\nBienvenue, noble aventurier, au cœur de notre royaume enchanté. Pour garantir une coexistence harmonieuse et respectueuse, nous avons établi des lois que chacun se doit de suivre. Voici les règles impératives de notre terre :\n\n",
+        "color": 15221330,
+        "thumbnail": {
+          "url": "https://example.com/your-thumbnail-image.png"
+        },
+        "image": {
+          "url": "https://example.com/your-source-image.png"
+        },
+        "fields": [
+          {
+            "name": "1. Respect et Courtoisie",
+            "value": "Tous les habitants de notre royaume doivent traiter autrui avec respect et courtoisie. Les insultes, harcèlements et comportements hostiles ne seront en aucun cas tolérés."
+          },
+          {
+            "name": "2. Tolérance et Inclusion",
+            "value": "Notre royaume est un lieu d'accueil pour tous, indépendamment de leur origine, croyance, orientation ou identité. Les propos racistes, sexistes, antisémites, homophobes ou discriminatoires sont strictement interdits, même sous forme de plaisanterie."
+          },
+          {
+            "name": "3. Respect des Espaces",
+            "value": "Chaque salon de notre royaume a un but spécifique. Veuillez respecter les thèmes et discussions des différents salons et éviter les hors-sujets. Utilisez les canaux appropriés pour vos messages."
+          },
+          {
+            "name": "4. Interdiction des Propos Inappropriés",
+            "value": "Les propos violents, offensants, sexuels ou inappropriés n'ont pas leur place ici. Le respect de la dignité de chacun est primordial."
+          },
+          {
+            "name": "5. Protection des Membres",
+            "value": "Tout acte de harcèlement, d'intimidation ou de menace envers un membre sera sévèrement sanctionné. Votre sécurité et bien-être sont notre priorité."
+          },
+          {
+            "name": "6. Contenu Sensible",
+            "value": "Les images, vidéos ou liens partagés doivent respecter les mêmes règles de respect et de courtoisie. Aucun contenu violent, offensant ou inapproprié ne sera toléré."
+          }
+        ],
+        "footer": {
+          "text": "👾 ✤ 𝓡𝓾𝓫𝓲𝓼 𝓕𝓪𝓬𝓽𝓸𝓻𝔂 ✤ 👾 • Le Royaume Enchanté",
+          "icon_url": "https://example.com/your-footer-icon.png"
+        }
+      }
+    ]
+  }
+  
