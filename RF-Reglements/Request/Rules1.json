@@ -1,15 +1,15 @@
 {
-    "content": "",
+    "content": "||<@&1265383040629080066>||",
     "embeds": [
       {
         "title": "👾 ✤ 𝓡𝓾𝓫𝓲𝓼 𝓕𝓪𝓬𝓽𝓸𝓻𝔂 ✤ 👾",
         "description": "📜🛡️ Les Lois Sacrées du Royaume de 👾 ✤ 𝓡𝓾𝓫𝓲𝓼 𝓕𝓪𝓬𝓽𝓸𝓻𝔂 ✤ 👾\n\nBienvenue, noble aventurier, au cœur de notre royaume enchanté. Pour garantir une coexistence harmonieuse et respectueuse, nous avons établi des lois que chacun se doit de suivre. Voici les règles impératives de notre terre :\n\n",
         "color": 15221330,
         "thumbnail": {
-          "url": "https://example.com/your-thumbnail-image.png"
+          "url": "https://raw.githubusercontent.com/Beeckaert/Rubis-Factory-Hook/main/RF-Reglements/Source/MainLogos.png"
         },
         "image": {
-          "url": "https://example.com/your-source-image.png"
+          "url": "https://raw.githubusercontent.com/Beeckaert/Rubis-Factory-Hook/main/RF-Reglements/Source/BG1.jpg"
         },
         "fields": [
           {
@@ -39,7 +39,7 @@
         ],
         "footer": {
           "text": "👾 ✤ 𝓡𝓾𝓫𝓲𝓼 𝓕𝓪𝓬𝓽𝓸𝓻𝔂 ✤ 👾 • Le Royaume Enchanté",
-          "icon_url": "https://example.com/your-footer-icon.png"
+          "icon_url": "https://raw.githubusercontent.com/Beeckaert/Rubis-Factory-Hook/main/RF-Reglements/Source/MainLogos.png"
         }
       }
     ]
