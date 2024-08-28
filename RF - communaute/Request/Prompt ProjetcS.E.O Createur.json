@@ -1,0 +1,31 @@
+{
+  "content": "",
+  "embeds": [
+    {
+      "title": "🌟📜 Annonce Royale : Présentation du Projet S.E.O Créateur ! 📜🌟",
+      "description": "Nobles aventuriers et créateurs de contenu de **👾 ✤ 𝓡𝓾𝓫𝓲𝓼 𝓕𝓪𝓬𝓽𝓸𝓻𝔂 ✤ 👾**,\n\nLe royaume est fier de vous présenter une initiative magique, spécialement conçue pour célébrer et récompenser les esprits créatifs qui font vivre notre communauté : le **Projet S.E.O Créateur** ! ✨",
+      "color": 15221330,
+      "fields": [
+        {
+          "name": "🏰 Qu'est-ce que le Projet S.E.O Créateur ? 🏰",
+          "value": "Le Projet S.E.O (Soutien des Éclaireurs et Ouvriers) Créateur est une grande aventure dédiée à mettre en lumière et à soutenir les créateurs de contenu et les membres investis de notre royaume. Que vous soyez artiste, écrivain, vidéaste, ou simplement un passionné qui s'implique activement dans le serveur, ce projet est fait pour vous !"
+        },
+        {
+          "name": "🌟 Comment fonctionne le Projet ? 🌟",
+          "value": "**1. Référencement des Créateurs :**\nTous les créateurs de contenu peuvent se référencer dans le registre royal pour être mis en avant. Votre travail sera partagé avec toute la communauté, vous permettant d'élargir votre audience et de recevoir le soutien de vos pairs.\n\n**2. Récompenses et Avantages :**\nChaque période, les membres les plus actifs et les créateurs les plus investis se verront attribuer des **récompenses royales** ! Cela inclut des **rangs spéciaux**, des **avantages uniques** sur le serveur, et même des **lots exclusifs**.\n\n**3. Événements S.E.O :**\nParticipez à des événements thématiques où vous pourrez montrer votre talent, que ce soit à travers des concours, des collaborations, ou des défis créatifs."
+        },
+        {
+          "name": "🎨 Qui peut participer ? 🎨",
+          "value": "Tous les membres du royaume qui créent du contenu ou qui s'investissent activement dans la communauté sont invités à rejoindre le projet S.E.O Créateur. Il n'y a pas de limite à la créativité ! Que vous soyez un maître du pinceau, un conteur légendaire, ou un chevalier des pixels, il y a une place pour vous."
+        },
+        {
+          "name": "⚔️ Pourquoi participer ? ⚔️",
+          "value": "• **Gagnez en visibilité** : Faites connaître votre travail et inspirez d'autres aventuriers.\n• **Recevez des récompenses** : Profitez des avantages réservés aux créateurs et aux membres engagés.\n• **Faites partie d'une légende** : Contribuez à la richesse de notre royaume et laissez votre empreinte dans l'histoire de **[Nom du Serveur]**."
+        }
+      ],
+      "footer": {
+        "text": "Par décret royal, l'équipe de 👾 ✤ 𝓡𝓾𝓫𝓲𝓼 𝓕𝓪𝓬𝓽𝓸𝓻𝔂 ✤ 👾"
+      }
+    }
+  ]
+}
