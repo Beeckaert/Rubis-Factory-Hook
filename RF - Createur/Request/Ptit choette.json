@@ -6,14 +6,14 @@
         "description": "Chers aventuriers et habitants de **👾 ✤ 𝓡𝓾𝓫𝓲𝓼 𝓕𝓪𝓬𝓽𝓸𝓻𝔂 ✤ 👾**,\n\nAujourd'hui, notre royaume est honoré de vous présenter une étoile montante parmi les créateurs de contenu, une artiste dont les œuvres et la vision apportent lumière et sagesse à tous ceux qui les découvrent. Sous la bienveillance des anciens dieux, nous accueillons avec grande fierté **P'tite Chouaitte** au sein du **Projet S.E.O Créateur** !\n\n🎨 **Présentation de l'Artiste P'tite Chouaitte** 🎨\n\nGribouilleuse insomniaque, gameuse à ses heures perdues. Bienvenu sur les streams de l'ennui de la chouette ! Passionnée de citrouilles et de dragons, elle poste ses gribouillis de temps en temps pour le plus grand plaisir de nos voyageurs.\n\n🔗 **Connectez-vous avec P'tite Chouaitte :**\n- <:Twitch:1280205307125043317> **[Twitch : ptitechouette](https://www.twitch.tv/ptitechouette)**\n- <:insta:1280204380477591602> **[Instagram : ptite_chouaitte_](https://www.instagram.com/ptite_chouaitte_/)**",
         "color": 15221330,
         "image": {
-          "url": "https://your-image-url.com/ptite_chouaitte_main_image.jpg"
+          "url": "https://raw.githubusercontent.com/Beeckaert/Rubis-Factory-Hook/main/RF%20-%20Createur/Source/BG1.jpg"
         },
         "thumbnail": {
-          "url": "https://your-image-url.com/ptite_chouaitte_thumbnail.jpg"
+          "url": ""
         },
         "footer": {
           "text": "Par ordre de la cour royale, l'équipe de 👾 ✤ 𝓡𝓾𝓫𝓲𝓼 𝓕𝓪𝓬𝓽𝓸𝓻𝔂 ✤ 👾",
-          "icon_url": "https://your-image-url.com/footer_icon.jpg"
+          "icon_url": "https://raw.githubusercontent.com/Beeckaert/Rubis-Factory-Hook/main/RF%20-%20Createur/Source/MainLogos.png"
         }
       }
     ]
